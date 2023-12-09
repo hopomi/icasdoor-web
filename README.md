@@ -14,7 +14,7 @@
 
 ## 使用说明
 
-1. xxxx
+1. vue 格式化采用 vscode Prettier 插件
 2. xxxx
 3. xxxx
 
@@ -26,3 +26,5 @@
 4. 新建 Pull Request
 
 ## 特技
+
+[Naive UI](https://www.naiveui.com/)
